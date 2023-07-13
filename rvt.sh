@@ -3,6 +3,6 @@ cd
 cd ..
 cd usr/etc
 rm bash.bashrc
-cd $HOME/qurxin/Revert
+cd $HOME/Rikta/Revert
 mv bash.bashrc $PREFIC/etc
-python $HOME/qurxin/Revert/Thanks.py
+python $HOME/Rikta/Revert/Thanks.py
